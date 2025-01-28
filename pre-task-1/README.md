@@ -1,13 +1,7 @@
 # Pre Task 1: Understanding Gaussian Distributions
 The goal of this task is to understand and visualise Gaussian (Normal) distributions in both one-dimensional (1D) and two-dimensional (2D) space. This will help in building intuition about probability densities, mean, variance, and how data is distributed in a normal distribution.
 
-## What is a Gaussian Distribution?
-The Gaussian distribution, also known as the Normal distribution, is a fundamental probability distribution in statistics and machine learning. It is defined by two parameters:
-
-- **Mean (μ)**: Determines the center of the distribution.
-- **Standard deviation (σ)**: Controls the spread of the distribution.
-
-![Normal Distribution Function]("normal.png")
+[Normal Distribution - Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution)
 
 ## Task Description
 1. **Part 1: Implementing a 1D Gaussian Distribution**
