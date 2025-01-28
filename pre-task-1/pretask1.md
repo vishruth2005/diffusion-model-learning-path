@@ -7,7 +7,7 @@ The Gaussian distribution, also known as the Normal distribution, is a fundament
 - **Mean (μ)**: Determines the center of the distribution.
 - **Standard deviation (σ)**: Controls the spread of the distribution.
 
-![Normal Distribution Function]("images/normal.png")
+![Normal Distribution Function](r"images/normal.png")
 
 ## Task Description
 1. **Part 1: Implementing a 1D Gaussian Distribution**
