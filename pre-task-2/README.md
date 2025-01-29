@@ -1,4 +1,4 @@
-# Task 2: Sampling from Probability Distributions
+# Pre Task 2: Sampling from Probability Distributions
 The goal of this task is to understand how to generate and visualize samples from different probability distributions, including Uniform, Gaussian (Normal), Exponential, and Laplace distributions. This will help build intuition about probability distributions and their applications in generative modeling.
 
 ## What is Sampling?

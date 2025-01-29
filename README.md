@@ -3,11 +3,30 @@ This repository provides a structured, bottom-up learning path for understanding
 
 Each task comes with clear objectives, dataset recommendations, and progressive difficulty, covering topics like Gaussian noise, Markov processes, VAEs, denoising autoencoders, forward and reverse diffusion, noise prediction, U-Net architectures, and advanced techniques like DDIM and class-conditional generation.
 
-The tasks are divided into two types, namely, Prerequisite Tasks (Pre Tasks) and Core Tasks.
+The tasks are divided into two types, namely, Prerequisite Tasks (Pre Tasks) and Core/Real Tasks.
 
 You can consider the Pre Tasks to be optional, if you are confident enough.
 
 ***
+## **Pre-Tasks: Foundations for Diffusion Models**
+These tasks cover essential mathematical and deep learning concepts required for understanding diffusion models.
+
+- **Pre-Task 1: Understanding Gaussian Distributions**
+- **Pre-Task 2: Sampling from Probability Distributions**
+- **Pre-Task 3: Markov Chains and Stochastic Processes**
+- **Pre-Task 4: Variational Autoencoders (VAEs)**
+- **Pre-Task 5: Denoising Autoencoder**
+---
+
+## **Core Tasks: Diffusion Model Implementation**
+These tasks cover the step-by-step implementation of diffusion models, from forward noise addition to reverse denoising.
+
+- **Core Task 1: Forward Diffusion Process**
+- **Core Task 2: Reverse Diffusion Process**
+- **Core Task 3: Noise Prediction with a Neural Network**
+- **Core Task 4: Variational Lower Bound (VLB) and Loss Function**
+- **Core Task 5: Training a Basic Diffusion Model**
+- **Core Task 6: Efficient Sampling with DDIM**
 
 
 
