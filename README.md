@@ -39,3 +39,8 @@ This repository is **not** a challenge, competition, or race. It's just a struct
 **Google is your best friend**, look for the resources as you like!
 
 Go at your own pace, experiment, and most importantly, **have fun with it!**
+
+***
+## Some Resources
+- [Denoising Diffusion Probabilistic Models (Paper)](https://arxiv.org/abs/2006.11239)
+- [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
