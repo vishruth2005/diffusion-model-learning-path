@@ -1,4 +1,7 @@
 # A Sequential Task-based Learning Path for Diffusion Models
+Fork the repository and attempt the tasks.
+
+
 This repository provides a structured, bottom-up learning path for understanding and implementing diffusion models in Python. It includes a sequence of coding tasks that start from foundational concepts in probability, stochastic processes, and generative modeling, leading up to full-fledged diffusion model implementations.
 
 Each task comes with clear objectives, dataset recommendations, and progressive difficulty, covering topics like Gaussian noise, Markov processes, VAEs, denoising autoencoders, forward and reverse diffusion, noise prediction, U-Net architectures, and advanced techniques like DDIM and class-conditional generation.
@@ -28,5 +31,10 @@ These tasks cover the step-by-step implementation of diffusion models, from forw
 - **Core Task 5: Training a Basic Diffusion Model**
 - **Core Task 6: Efficient Sampling with DDIM**
 
+***
+## 🚨 Disclaimer: Not a Challenge, Just a Learning Path! 🚨  
 
+This repository is **not** a challenge, competition, or race. It's just a structured learning path through coding tasks to help you understand diffusion models from the ground up. There aren't many resources here yet, but I plan to add diffusion papers and useful links over time.  
+**Google is your best friend**, look for the resources as you like!
 
+Go at your own pace, experiment, and most importantly, **have fun with it!**
