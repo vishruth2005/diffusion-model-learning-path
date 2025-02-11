@@ -18,7 +18,7 @@ These tasks cover essential mathematical and deep learning concepts required for
 - **Pre-Task 1: Understanding Gaussian Distributions**
 - **Pre-Task 2: Sampling from Probability Distributions**
 - **Pre-Task 3: Markov Chains and Stochastic Processes**
-- **Pre-Task 4: Variational Autoencoders (VAEs)**
+- **Pre-Task 4: [Variational Autoencoders (VAEs)](https://medium.com/@raajanwankhade/variational-autoencoders-vaes-explained-and-implemented-11e2931d05f3)**
 - **Pre-Task 5: Denoising Autoencoder**
 ---
 
